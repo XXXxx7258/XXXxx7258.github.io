@@ -425,6 +425,7 @@ zh: &DEFAULT_ZH_HANS
   back_to_top                : "返回顶部"
 zh-CN:
   <<: *DEFAULT_ZH_HANS
+  follow_label               : "朋友圈"
 zh-SG:
   <<: *DEFAULT_ZH_HANS
 # Taiwan (Traditional Chinese)
