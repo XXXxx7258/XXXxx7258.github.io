@@ -53,7 +53,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -105,6 +105,9 @@ author:
   location         : "在各种群里游荡"
   email            :
   links:
+    - label: "朋友圈"
+      icon: "fab fa-qq"
+      url: "https://user.qzone.qq.com/2258194944"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
@@ -127,6 +130,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "朋友圈"
+      icon: "fab fa-qq"
+      url: "https://user.qzone.qq.com/2258194944"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
